@@ -1,0 +1,18 @@
+# Fichiers de VS Code
+# Ignorer les fichiers de configuration de l'éditeur
+.vscode/
+
+# Ignorer les fichiers de sauvegarde temporaires
+*.ipynb_checkpoints/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers PDF
+Version_PDF/
+
+# Ignorer le fichier .txt
+*.txt
+
+# Ignorer les environnements virtuels
+.venv/
