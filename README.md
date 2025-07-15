@@ -1,6 +1,6 @@
 # Les bases de Python
 
-Bonjour à tous, je vous présente avec des fichiers Jupyter les concepts de bases du langage Python. Ces fichiers montrent tous les concepts que j'ai appris.
+Bonjour à tous, je vous présente avec des fichiers Jupyter les concepts avancés du langage Python. Ces fichiers montrent tous les concepts que j'ai appris.
 
 
 Source :

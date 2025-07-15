@@ -1,18 +1,15 @@
-# Fichiers de VS Code
-# Ignorer les fichiers de configuration de l'éditeur
+# Ignorer les images
+*.png
+
+# Ignorer les fichiers de configuration
 .vscode/
-
-# Ignorer les fichiers de sauvegarde temporaires
-*.ipynb_checkpoints/
-
-# Ignorer les fichiers de log
-*.log
+.venv/
+.ipynb_checkpoints/
 
 # Ignorer les fichiers PDF
 Version_PDF/
 
-# Ignorer le fichier .txt
-*.txt
-
-# Ignorer les environnements virtuels
-.venv/
+# Ignorer des fichiers spécifique
+Test_de_conversion.ipynb
+Tableau_1.png
+Tableau_2.png
