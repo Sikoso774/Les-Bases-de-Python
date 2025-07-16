@@ -9,7 +9,7 @@
 *.log
 
 # Ignorer les fichiers PDF
-Version_PDF/
+pdf/
 
 # Ignorer le fichier .txt
 *.txt
