@@ -8,8 +8,7 @@
 # Ignorer les fichiers de log
 *.log
 
-# Ignorer les fichiers PDF
-pdf/
+
 
 # Ignorer le fichier .txt
 *.txt
