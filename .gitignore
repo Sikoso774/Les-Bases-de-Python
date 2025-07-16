@@ -3,6 +3,7 @@
 
 # Ignorer les fichiers de configuration
 .vscode/
+.venv/
 .ipynb_checkpoints/
 
 # Ignorer les fichiers PDF
