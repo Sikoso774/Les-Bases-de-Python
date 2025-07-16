@@ -7,7 +7,7 @@
 .ipynb_checkpoints/
 
 # Ignorer les fichiers PDF
-Version_PDF/
+pdf/
 
 # Ignorer des fichiers spécifique
 Test_de_conversion.ipynb
