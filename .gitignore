@@ -6,9 +6,6 @@
 .venv/
 .ipynb_checkpoints/
 
-# Ignorer les fichiers PDF
-pdf/
-
 # Ignorer des fichiers spécifique
 Test_de_conversion.ipynb
 Tableau_1.png
